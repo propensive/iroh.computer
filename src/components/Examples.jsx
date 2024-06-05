@@ -57,7 +57,7 @@ const examples = [
     href: 'https://github.com/n0-computer/iroh-examples/tree/main/extism',
     name: 'Extism',
     description:
-      'Provide Iroh APIs to all kinds of languages with iroh existism host functions',
+      'Provide Iroh APIs to all kinds of languages with iroh extism host functions',
     tags: ["plugins", "multi-language", "WASM"],
     pattern: {
       y: 16,
